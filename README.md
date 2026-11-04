@@ -329,10 +329,3 @@ docker compose down -v
 ## Observação sobre a implementação
 
 O projeto utiliza transações locais do PostgreSQL e do MongoDB, coordenadas pela aplicação, com tratamento de exceções e operações de rollback/abort nos cenários simulados.
-
-## Entregáveis
-
-- Código-fonte da aplicação.
-- Configuração dos bancos de dados com Docker Compose.
-- Procedimento de instalação e execução neste README.
-- Relatório com a arquitetura, os procedimentos realizados e os resultados dos três cenários.
