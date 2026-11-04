@@ -149,7 +149,7 @@ Antes de executar o projeto, é necessário instalar:
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/WesleyyD/Persist-ncia-Distribu-da-com-PostgreSQL-e-MongoDB.git
 cd persistencia-2pc
 ```
 
