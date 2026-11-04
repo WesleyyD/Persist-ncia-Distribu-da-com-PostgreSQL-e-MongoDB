@@ -153,8 +153,6 @@ git clone https://github.com/WesleyyD/Persist-ncia-Distribu-da-com-PostgreSQL-e-
 cd persistencia-2pc
 ```
 
-Substitua `URL_DO_REPOSITORIO` pelo endereço do repositório Git.
-
 ### 2. Instalar as dependências
 
 ```bash
